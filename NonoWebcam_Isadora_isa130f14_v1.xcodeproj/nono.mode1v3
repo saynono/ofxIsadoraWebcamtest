@@ -331,7 +331,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>FF4E3F1512E0722B008BD16C</string>
+										<string>FF3D32F412E078C6004B283A</string>
 										<key>history</key>
 										<array>
 											<string>FFD7A6F51264AE98009DAE8E</string>
@@ -384,7 +384,7 @@
 											<string>FF4E3EFD12E06959008BD16C</string>
 											<string>FF4E3F0612E06BCD008BD16C</string>
 											<string>FF4E3F0712E06BCD008BD16C</string>
-											<string>FF4E3F0E12E06C06008BD16C</string>
+											<string>FF4E3F1F12E0731C008BD16C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -396,14 +396,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {793, 617}}</string>
+								<string>{{0, 0}, {793, 611}}</string>
 								<key>RubberWindowFrame</key>
 								<string>202 115 1252 913 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>617pt</string>
+							<string>611pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -416,14 +416,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 622}, {793, 250}}</string>
+								<string>{{0, 616}, {793, 256}}</string>
 								<key>RubberWindowFrame</key>
 								<string>202 115 1252 913 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>250pt</string>
+							<string>256pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -442,9 +442,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>FF4E3F1612E0722B008BD16C</string>
+				<string>FF3D32E012E075E7004B283A</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>FF4E3F1712E0722B008BD16C</string>
+				<string>FF3D32E112E075E7004B283A</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -582,6 +582,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>FF3D32F512E078C6004B283A</string>
+		<string>FF3D32F612E078C6004B283A</string>
+		<string>FF3D32F712E078C6004B283A</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>FFD7A6631264A8E4009DAE8E</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/nono/Documents/workspace_of/of_preRelease_v0061_osxSL_FAT/apps/nono/NonoWebcam_Isadora_Plugin_isa130f14_v2/NonoWebcam_Isadora_isa130f14_v1.xcodeproj</string>
@@ -664,7 +668,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>FFD7A6631264A8E4009DAE8E</string>
-				<string>FF4E3F1812E0722B008BD16C</string>
+				<string>FF3D32E212E075E7004B283A</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -786,13 +790,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>FF4E3F1912E0722B008BD16C</string>
+				<string>FF3D32E312E075E7004B283A</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>FF4E3F1A12E0722B008BD16C</string>
-				<string>FF4E3F1B12E0722B008BD16C</string>
-				<string>FF4E3F1C12E0722B008BD16C</string>
-				<string>FF4E3F1D12E0722B008BD16C</string>
-				<string>FF4E3F1E12E0722B008BD16C</string>
+				<string>FF3D32E412E075E7004B283A</string>
+				<string>FF3D32E512E075E7004B283A</string>
+				<string>FF3D32E612E075E7004B283A</string>
+				<string>FF3D32E712E075E7004B283A</string>
+				<string>FF3D32E812E075E7004B283A</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -801,7 +805,7 @@
 			<key>WindowToolGUID</key>
 			<string>1CD10A99069EF8BA00B06720</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -911,8 +915,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -948,7 +950,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>FF4E3EBB12E06136008BD16C</string>
+				<string>FF3D32ED12E0789A004B283A</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

@@ -152,12 +152,14 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 316699174;
-			PBXWorkspaceStateSaveDate = 316699174;
+			PBXPerProjectTemplateStateSaveDate = 316700113;
+			PBXWorkspaceStateSaveDate = 316700113;
 		};
 		perUserProjectItems = {
 			FF14C5D412C22E3F007BCF89 = FF14C5D412C22E3F007BCF89 /* PBXTextBookmark */;
 			FF14C5D512C22E3F007BCF89 = FF14C5D512C22E3F007BCF89 /* PBXTextBookmark */;
+			FF3D32DF12E075E7004B283A /* PBXTextBookmark */ = FF3D32DF12E075E7004B283A /* PBXTextBookmark */;
+			FF3D32F412E078C6004B283A /* PBXTextBookmark */ = FF3D32F412E078C6004B283A /* PBXTextBookmark */;
 			FF461EE412C40559003ED975 = FF461EE412C40559003ED975 /* PBXTextBookmark */;
 			FF461EF012C40616003ED975 = FF461EF012C40616003ED975 /* PBXTextBookmark */;
 			FF461EF112C40616003ED975 = FF461EF112C40616003ED975 /* PBXTextBookmark */;
@@ -181,9 +183,8 @@
 			FF4E3EFD12E06959008BD16C = FF4E3EFD12E06959008BD16C /* PBXTextBookmark */;
 			FF4E3F0612E06BCD008BD16C = FF4E3F0612E06BCD008BD16C /* PBXTextBookmark */;
 			FF4E3F0712E06BCD008BD16C = FF4E3F0712E06BCD008BD16C /* PBXTextBookmark */;
-			FF4E3F0812E06BCD008BD16C = FF4E3F0812E06BCD008BD16C /* PBXTextBookmark */;
 			FF4E3F0E12E06C06008BD16C = FF4E3F0E12E06C06008BD16C /* PBXTextBookmark */;
-			FF4E3F1512E0722B008BD16C /* PBXTextBookmark */ = FF4E3F1512E0722B008BD16C /* PBXTextBookmark */;
+			FF4E3F1F12E0731C008BD16C = FF4E3F1F12E0731C008BD16C /* PBXTextBookmark */;
 			FF5459C9129C16EC00FEC3F3 = FF5459C9129C16EC00FEC3F3 /* PBXTextBookmark */;
 			FF5459CA129C16EC00FEC3F3 = FF5459CA129C16EC00FEC3F3 /* PBXTextBookmark */;
 			FF6C83081274615C007698F3 = FF6C83081274615C007698F3 /* PBXTextBookmark */;
@@ -257,6 +258,26 @@
 		name = IsadoraPlugin_temp.cpp;
 		path = /Users/nono/Desktop/_downloads_/IsadoraPlugin_temp.cpp;
 		sourceTree = "<absolute>";
+	};
+	FF3D32DF12E075E7004B283A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */;
+		name = "IsadoraPlugin.cp: 53";
+		rLen = 1219;
+		rLoc = 2442;
+		rType = 0;
+		vrLen = 1517;
+		vrLoc = 2342;
+	};
+	FF3D32F412E078C6004B283A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */;
+		name = "IsadoraPlugin.cp: 60";
+		rLen = 0;
+		rLoc = 3001;
+		rType = 0;
+		vrLen = 1480;
+		vrLoc = 2342;
 	};
 	FF461EE412C40559003ED975 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -536,16 +557,6 @@
 		vrLen = 1010;
 		vrLoc = 1047;
 	};
-	FF4E3F0812E06BCD008BD16C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */;
-		name = "IsadoraPlugin.cp: 64";
-		rLen = 0;
-		rLoc = 2703;
-		rType = 0;
-		vrLen = 1626;
-		vrLoc = 1445;
-	};
 	FF4E3F0E12E06C06008BD16C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */;
@@ -556,7 +567,7 @@
 		vrLen = 1547;
 		vrLoc = 2342;
 	};
-	FF4E3F1512E0722B008BD16C /* PBXTextBookmark */ = {
+	FF4E3F1F12E0731C008BD16C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */;
 		name = "IsadoraPlugin.cp: 53";
@@ -733,6 +744,7 @@
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
+		startupPath = "<<ProjectDirectory>>";
 		variableFormatDictionary = {
 		};
 	};
@@ -1157,9 +1169,9 @@
 	};
 	FFD7A6261264A853009DAE8E /* IsadoraPlugin.cp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 10400}}";
-			sepNavSelRange = "{2442, 1219}";
-			sepNavVisRange = "{2342, 1517}";
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 10439}}";
+			sepNavSelRange = "{3001, 0}";
+			sepNavVisRange = "{2342, 1480}";
 			sepNavWindowFrame = "{{15, 277}, {1070, 746}}";
 		};
 	};
